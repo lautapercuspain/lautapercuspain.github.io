@@ -1,8 +1,10 @@
 ## I am Lautaro Gruss, a passionate Software Engineer .
 
-You can use the [editor on GitHub](https://github.com/lautapercuspain/lautapercuspain.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I've had an interest in IT since I was 11 years old, where I started to study DOS. 
+Initially, I explored technology through books and tutorials, then I went to an IT Institute, in Buneos Aires Argentina, to study Web and mobile development.
+This institute [Educación IT](http://www.educacionit.com/) gave me the possibillity to master PHP and Javascript as my main program languages. Over the years, I became a teacher in the same Institute, teaching IT courses such us AJAX, PHP Services and PHP and MySql.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
