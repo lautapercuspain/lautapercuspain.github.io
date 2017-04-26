@@ -11,6 +11,7 @@ This institute [Educación IT](http://www.educacionit.com/) gave me the possibil
 I have given the fallowing talks
 
 **Jest, the testing platform**.
+
 [Jest talk](https://goo.gl/M5Ddgj)
 
 
